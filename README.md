@@ -8,7 +8,7 @@
 Hi there 👋🏻  
 I'm Computer Engineering Student at CEFET-MG and Developer at [Commit Jr](https://commitjr.com/), working over WordPress.
 
-My favourites tools: <img src="https://ibb.co/XY1JV37" width="20"/> <b>Java</b>, <img src="https://ibb.co/Xt4HDJT" width="20"/> <b>C/C++</b>
+My favourites tools: <img src="https://i.ibb.co/Xt4HDJT/c-c.jpg" width="20"/> <b>Java</b>, <img src="https://i.ibb.co/XY1JV37/java.png" width="20"/> <b>C/C++</b>
 
 <!--
   **ErickHDdS/ErickHDdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
