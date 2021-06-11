@@ -1,0 +1,26 @@
+# Erick Henrique Dutra de Souza
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErickHDdS)](https://github.com/ErickHDdS)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickhenriquedds/)](https://www.linkedin.com/in/erickhenriquedds/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickhenriquedds@gmail.com)](mailto:erickhenriquedds@gmail.com)
+
+### 👨🏻‍💻 A little bit about me
+
+Hi there 👋🏻  
+I'm Computer Engineering Student at CEFET-MG and Developer at [Commit Jr](https://commitjr.com/), working over WordPress.
+
+My favourites tools: <img src="https://ibb.co/XY1JV37" width="20"/> <b>Java</b>, <img src="https://ibb.co/Xt4HDJT" width="20"/> <b>C/C++</b>
+
+<!--
+  **ErickHDdS/ErickHDdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
