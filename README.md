@@ -2,10 +2,11 @@
 
 ### 🍀 A little bit about me
 
-- 👨🏻‍🎓 Studying Computer Engineering - CEFET MG.
+- 👨🏻‍🎓 Studying Computer Engineering - CEFET/MG.
 - 👨🏻‍💻 Developer at [Commit Jr](https://commitjr.com/), working over WordPress, Web Systems and Product Owner.
-- 🏠 I live in Belo Horizonte - MG, Brazil.
+- ⚓️ I live in Belo Horizonte - MG, Brazil.
 - ❤️ I love life.
+- 🕵🏽‍♂️ I'm interested in Web Development.
 
 <div align="center">
   <a href="https://github.com/ErickHDdS">
