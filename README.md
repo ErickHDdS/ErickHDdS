@@ -2,8 +2,8 @@
 
 ### 🍀 A little bit about me
 
-- 👨🏻‍🎓 Studying Computer Engineering - CEFET/MG.
-- 👨🏻‍💻 Developer at [Commit Jr](https://commitjr.com/), working over WordPress, Web Systems and Product Owner.
+- 👨🏻‍🎓 Studying Computer Engineering - [CEFET-MG](https://www.cefetmg.br/).
+- 👨🏻‍💻 Developer at [Commit Jr](https://commitjr.com/), working over WordPress, Web Systems and Sales Manager | Product Owner.
 - ⚓️ I live in Belo Horizonte - MG, Brazil.
 - ❤️ I love life.
 - 🕵🏽‍♂️ I'm interested in Web Development.
@@ -15,10 +15,10 @@
 </div>
 
   <div align="center"><br>
- <!-- <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
+  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Erick-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
