@@ -1,4 +1,5 @@
-# Hello 👋, i am Erick Henrique
+# Hello 👋, i am Erick Henrique <img height="30" width="60" src="https://github.com/ErickHDdS/ErickHDdS/blob/main/mcqueen.gif">
+
 
 ### 🍀 A little bit about me
 
@@ -22,28 +23,28 @@
   <div align="center"><br>
   
   <a href="https://www.javascript.com/" />
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> </a>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> </a>
   
   <a href="https://www.typescriptlang.org/" />
-  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> </a>
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> </a>
   
   <a href="https://pt-br.reactjs.org/" />
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> </a>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" />
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> </a>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" />
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> </a>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> </a>
   
   <a href="https://devdocs.io/c/" />
-  <img align="center" alt="Erick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> </a>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> </a>
   
   <a href="https://devdocs.io/cpp/" />
-  <img align="center" alt="Erick-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /> </a>
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /> </a>
   
   <a href="https://docs.oracle.com/en/java/" />
-  <img align="center" alt="Erick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> </a>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> </a>
 </div>
   
   ##
