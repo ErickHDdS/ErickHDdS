@@ -4,11 +4,11 @@
 ### 🍀 A little bit about me
 
 - 👨🏻‍🎓 Studying Computer Engineering - [CEFET-MG](https://www.cefetmg.br/).
-- 📱 Developer at [Commit Jr](https://commitjr.com/), working over WordPress, Web Systems and Sales Manager | Product Owner.
+- 📱 Projects Head at [Commit Jr](https://commitjr.com/).
 - 👨🏻‍💻 Software Engineer Trainee at [SYDLE](https://www.sydle.com/), working over Web Systems - All-in-one.
 - ⚓️ I live in [Belo Horizonte - MG, Brazil](https://www.google.com/maps/place/Belo+Horizonte,+MG/@-19.9026615,-44.1041363,11z/data=!3m1!4b1!4m5!3m4!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685).
 - ❤️ I love life.
-- 🕵🏽‍♂️ I'm interested in Web Development.
+- 🕵🏽‍♂️ I'm interested in Web Development and Software Engineer.
 
 ##
 
